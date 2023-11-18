@@ -1,5 +1,5 @@
 # My-YouTube-Usage
-[video-netflix-online-media-player-youtube-1453909-pxhere com](https://github.com/Nero103/My-YouTube-Usage/assets/92405860/7937d2f6-1649-4db1-bdbf-7ad0a81a22dc)
+<img src="https://c.pxhere.com/images/6a/7b/834227a14076fbb7c356c9169438-1453909.jpg!d" srcset="https://c.pxhere.com/images/6a/7b/834227a14076fbb7c356c9169438-1453909.jpg!d" alt="video, netflix, online, media, player, youtube, cloud, digital, film, internet, presentation, play, network, Searches, application, concept, Episode, movies, watching, tv, international, story, hand, font, finger, computer wallpaper, technology, brand, angle, graphic design, illustration, Free Images In PxHere">
 Photo by Mohamed Hassan from PxHere
 
 This is an end-to-end personal project. I was curious about my YouTube engagement and thought it would be fun to explore the usage and recommend ways to optimize my device's data usage and my viewing schedule.
